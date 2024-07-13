@@ -1,2 +1,4 @@
-package pages;public class ReviewPage {
+package pages;
+
+public class ReviewPage {
 }
